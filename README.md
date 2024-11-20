@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a Software Engineering Professional, always ea
 
 ### 🌟 About Me
 - 💻 **Role**: Software Developer
-- 🎓 **Education**: Master of Engineering in Software Engineering, Concordia University (GPA: 3.95)
+- 🎓 **Education**: Master of Engineering in Software Engineering, Concordia University (GPA: 3.95/4.3)
 - 🌱 **Currently Learning**: Development concepts and enhancing my coding expertise to drive innovative solutions
 - 👯 **Looking to collaborate on**: Open-source projects, innovative software solutions, and tech challenges
-- ⚡ **Fun Fact**: I enjoy exploring new places in my free time!
+- ⚡ **Fun Fact**: I love discovering new places and trying out different cuisines in my free time!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=GitHub&logoColor=white)](https://shefali-upadhyaya.github.io)
 
@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a Software Engineering Professional, always ea
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### ⚙️ Tools & Frameworks
@@ -59,8 +61,8 @@ Welcome to my GitHub profile! I'm a Software Engineering Professional, always ea
 
 ### 📜 Certifications
 
-- [![Salesforce Administrator](https://img.shields.io/badge/Salesforce%20Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shefaliupadhyaya)
 - [![Salesforce Platform App Builder](https://img.shields.io/badge/Salesforce%20Platform%20App%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shefaliupadhyaya)
+- [![Salesforce Administrator](https://img.shields.io/badge/Salesforce%20Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shefaliupadhyaya)
 - [![NASSCOM Certified Software Developer](https://img.shields.io/badge/NASSCOM%20Certified%20Software%20Developer-FFA500?style=for-the-badge)](https://learningmedia-dev-ed.my.salesforce.com/sfc/p/2v0000013xo9/a/GC000000JH9C/thWPeYHLfK5YwAc3Dkkmn6E73avBUd5xK.Tieorymf8)
 
 ---
